@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-20T20:35:47 CST" name="Default suite" finished-at="2023-07-20T20:35:50 CST" duration-ms="3247">
+    <groups>
+    </groups>
+    <test started-at="2023-07-20T20:35:47 CST" name="Default test" finished-at="2023-07-20T20:35:50 CST" duration-ms="3247">
+      <class name="Edit.EducacionIT.nacional">
+        <test-method is-config="true" signature="abrirNavegador()[pri:0, instance:Edit.EducacionIT.nacional@368247b9]" started-at="2023-07-20T20:35:44 CST" name="abrirNavegador" finished-at="2023-07-20T20:35:47 CST" duration-ms="3372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abrirNavegador -->
+        <test-method signature="buscarProducto()[pri:0, instance:Edit.EducacionIT.nacional@368247b9]" started-at="2023-07-20T20:35:47 CST" name="buscarProducto" finished-at="2023-07-20T20:35:50 CST" duration-ms="3227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buscarProducto -->
+      </class> <!-- Edit.EducacionIT.nacional -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
